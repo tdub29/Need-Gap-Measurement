@@ -7,3 +7,8 @@ Enjoy a quick demonstration of the dashboard largely responsible for taking me f
 
 I am extremely proud of this work since it will surely lead to more donations and nonprofit development in areas with currently low coverage thus, helping Good360 shrink the need gap one person at a time and creating a very rare impact on communities across the US.
 
+*Customer names are anonymized for privacy concerns
+
+https://clipchamp.com/watch/izYShJcypyG
+
+In this video you will see a variety of functionalities including, being able to filter all fields by state, region, membership level, date. My favorite functionality is the reactivity when you click on a county or a nonprofit; when you click on either, the other will react. For example, click on LA County and you will be able to see the different NPO's within 250 miles, how much product those NPOs have received, and their estimated lives impacted. Vice versa if you click on NPO "X" you will be able to see the amount of poverty in that 300 mile radius as well as the percent of poverty. All of this together, this dashboard allows our nonprofit development team to identify areas of potential growth allowing us to shrink the need gap. 
