@@ -1,5 +1,5 @@
-# Need-Gap-Measurement
-This repository contains r code used to clean sales order data for analysis and visualization in Tableau and PowerBI as well as a short demonstration of the PowerBI visualizations.
+# Need-Gap-Measurement  Updated 1/16
+This repository contains a short demonstration of the PowerBI visualizations I built as an intern 2+ years ago. This helped me gain the trust of Executives and Directors at Good360 early on which has led to my incredible opportunity of influence. It is amazing to see how far we've come, soon enough I'm sure I'll be able to externalize some of my work to show all the good we do.
 
 I was brought onto Good360 towards the beginning of the "Need Gap Measurement Project", a project seeking to use data to drive intentionality behind donation placement. This dashboard and the data cleaning needed for it have been centerpiece of this project as it has helped Good360 map need and Nonprofit coverage in ways previously impossible.
 
